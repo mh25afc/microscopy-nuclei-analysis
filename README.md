@@ -13,7 +13,7 @@ Full analysis, figures, and discussion are in report.
 .
 ├── README.md
 ├── requirements.txt
-├── Assignment3_Report.pdf          # final report
+├── report.pdf          # final report
 ├── notebook/
 │   └── assignment_3.ipynb  # full end-to-end Colab notebook
 ├── outputs/
