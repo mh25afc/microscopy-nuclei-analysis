@@ -1,0 +1,5 @@
+source_image,corruption_type,clean_n_objects,corrupted_n_objects,clean_mean_area,corrupted_mean_area,clean_density,corrupted_density
+test_000.png,blur,8,7,191.2,426.0,dense,moderate
+test_000.png,lowcontrast,8,0,191.2,0.0,dense,sparse
+test_004.png,blur,43,10,328.7,2791.4,dense,dense
+test_004.png,lowcontrast,43,0,328.7,0.0,dense,uncertain
